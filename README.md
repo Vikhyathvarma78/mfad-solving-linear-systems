@@ -3,7 +3,7 @@
 **MFAD Mini Project – UE25MA242A (Mathematical Foundation for AI & Data Science), PES University**
 **Application Problem 4:** *Solving linear systems in Python*
 
-**Team:** Varun C B · Vikhyath Varma D · Varshith Bhashyam · Ruthvik Reddy | Section: H*
+**Team:** Varun C B · Vikhyath Varma D · Varshith Bhashyam · Ruthvik Reddy | Section: H
 
 ## What this project does
 
